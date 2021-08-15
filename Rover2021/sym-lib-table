@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name ww2020-eagle-import)(type Legacy)(uri ${KIPRJMOD}/ww2020-eagle-import.lib)(options "")(descr ""))
+  (lib (name ww2020-rescue)(type Legacy)(uri ${KIPRJMOD}/ww2020-rescue.lib)(options "")(descr ""))
+  (lib (name ww2020)(type Legacy)(uri ${KIPRJMOD}/ww2020.lib)(options "")(descr ""))
+)

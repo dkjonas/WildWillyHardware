@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name ww2020)(type KiCad)(uri "$(KIPRJMOD)/ww2020.pretty")(options "")(descr ""))
+)

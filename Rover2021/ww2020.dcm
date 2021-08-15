@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DRV8871DDA
+D Brushed DC Motor Driver, PWM Control, 45V, 3.6A, Current limiting, HTSOP-8
+K H-bridge driver motor current limit
+F http://www.ti.com/lit/ds/symlink/drv8871.pdf
+$ENDCMP
+#
+#End Doc Library
